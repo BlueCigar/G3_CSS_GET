@@ -1,0 +1,16 @@
+p.indent_TXT {text-indent:0;} /*首行不缩进*/
+section.excerpt_S {text-indent:36px;font-size:18px;line-height:36px;padding:5px;font-family:微软雅黑;background-color:#f8f7f5;} /*节选段落、缩进*/
+/*正文*/
+
+section.Describe_emp {text-indent:36px;font-size:18px;margin:4px;padding:10px;max-width:100%;color:#3e3e3e;font-family:微软雅黑;line-height:36px;border:1px solid #c9c9c9;box-shadow:#aaaaaa 0 0 10px;background-color:#ffffff;}
+/*强调*/
+
+section.excerpt_bt1 {text-indent:36px;padding:5px;}
+section.excerpt_xbt1 {color:#ffffff;display:inline-block;max-width:100%;margin:5px;padding:0px 20px;font-size:22px;line-height:36px;background-color:#20b0dc;font-weight:bold;border-top-left-radius:15px;border-bottom-right-radius:15px;box-shadow:3px 3px 3px #cccccc;}
+section.excerpt_L1 {font-size:18px;line-height:36px;display:block;max-width:100%;padding:5px;margin:0;border:1px solid #20b0dc;font-family:微软雅黑;color:#333333;background-color:#ffffff;border-top-left-radius:15px;border-bottom-right-radius:15px;}
+/*小标题*/
+
+section.excerpt_bt1 {text-indent:36px;padding:5px;}
+legend.BT_center1{max-width:100%;margin:0px;color:#ffffff;text-align:center;font-weight:bolder;font-size:22px;line-height:26px;padding:4px 10px;border-top-left-radius:0.5em 4em;border-top-right-radius:3em 1em;border-bottom-right-radius:0.5em 2em;border-bottom-left-radius:3em 1em;box-shadow:#a5a5a5 4px 4px 2px;background-color:#20b0dc;}
+fieldset.L2 {font-size:18px;line-height:36px;margin:5px;padding:5px 20px;border:1px solid #cccccc;max-width:100%;color:#3e3e3e;font-family:微软雅黑;box-shadow:#cccccc 3px 3px 3px;background-color:#fafafa;}
+/*小公告*/
